@@ -1,0 +1,11 @@
+.dark-mode {
+    background-color: #333;
+    color: #ccc;
+  }
+
+
+  /* Did this to keep the hover effect on h3 from going all the way across the page and causing the pop up alert to appear everytime the curser moves down the page. */
+#hot {
+  display: grid;
+  width: 20%;
+}  
